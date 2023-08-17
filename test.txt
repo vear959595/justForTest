@@ -1,2 +1,7 @@
 something for test!
+<<<<<<< HEAD
 Change for commit123321
+=======
+Change for commit
+another line from user2
+>>>>>>> 808102dc47db5eb9496421f5de7b95520e61ead6
